@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "ANU VOX"
 title_separator          : "|"
 subtitle                 : "Voice: A Signature of Thought.  " # site tagline that appears below site title in masthead
-name                     : "Anu Nair"
+name                     : "Anu"
 description              : "No One"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anu Nair"
+  name             : "Anu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An Engineer who love explore every aspect of life."
-  location         : "INDIA/FRANCE"
+  location         : "FRANCE"
   email            : "anu.nair@outlook.in"
   links:
     - label: "Email"
