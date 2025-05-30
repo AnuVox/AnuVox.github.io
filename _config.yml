@@ -192,7 +192,6 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -264,7 +263,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
