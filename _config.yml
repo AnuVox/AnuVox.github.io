@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Anu"
-  avatar           : "assets/images/profile.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/dp.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An Engineer who love explore every aspect of life."
   location         : "FRANCE"
   email            : "anu.nair@outlook.in"
