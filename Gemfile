@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gemspec
-gem 'jekyll-archives
-gem 'faraday-retry'
+gem "jekyll-archives"
+gem "faraday-retry"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
