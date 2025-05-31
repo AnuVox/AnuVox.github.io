@@ -12,14 +12,14 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "ANU VOX"
+title                    : "ANU ARCHIVES"
 title_separator          : "|"
-subtitle                 : "Voice: A Signature of Thought.  " # site tagline that appears below site title in masthead
+subtitle                 : "Repository of my Thoughts and Insights.  " # site tagline that appears below site title in masthead
 name                     : "Anu"
 description              : "No One"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -116,7 +116,7 @@ author:
   name             : "Anu"
   avatar           : "assets/images/dp.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An Engineer who love explore every aspect of life."
-  location         : "FRANCE"
+  location         : "FR"
   email            : "anu.nair@outlook.in"
   links:
     - label: "Email"
